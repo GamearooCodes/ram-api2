@@ -27,10 +27,10 @@ async function helloGet(version, req, res) {
                 "Hello, How are you?",
             ];
             let imageupdateArray = [
-                "http://rambot.xyz/ram-api2-images/hello1.gif",
-                "http://rambot.xyz/ram-api2-images/hello2.gif",
-                "http://rambot.xyz/ram-api2-images/hello3.gif",
-                "http://rambot.xyz/ram-api2-images/hello4.gif"
+                "https://rambot.xyz/ram-api2-images/hello1.gif",
+                "https://rambot.xyz/ram-api2-images/hello2.gif",
+                "https://rambot.xyz/ram-api2-images/hello3.gif",
+                "https://rambot.xyz/ram-api2-images/hello4.gif"
 
             ];
 
